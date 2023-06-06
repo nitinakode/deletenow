@@ -12,7 +12,35 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.name{
+  width:4000px;
+  
+}
+footer {
+  position: fixed;
+  background-color: gray;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  text-align: center;
+}
+.error
+{
+  color: red;
+}
+.signupbutton
+{
+  width: 20px;
+}
+.dark {
+background-color: #333;
+color: #fff;
+  }
+  .light {
+background-color: #fff;
+color: #333;
+  }
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
